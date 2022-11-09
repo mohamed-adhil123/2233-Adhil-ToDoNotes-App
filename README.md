@@ -1,4 +1,4 @@
 # 2233-Adhil-ToDoNotes-App
 APP DEVELOPMENT FRAMEWORK
-Mohmamed Adhil
+Mohamed Adhil
 iAMDT-2233
